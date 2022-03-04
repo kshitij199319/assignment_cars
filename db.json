@@ -1,0 +1,14 @@
+{
+  "details": {
+    "firstname": "Amazing",
+    "lastname": "Tech",
+    "phonenumber": 1234567876,
+    "email": "ama@gm.com",
+    "age": 31,
+    "dob": "2022-03-04",
+    "city": "IN",
+    "state": "MH",
+    "occupation": "IT",
+    "model": "SUV"
+  }
+}
